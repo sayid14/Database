@@ -1,0 +1,1 @@
+create table pukesmas (nama_obat varchar(30),sat varchar(30),stok_awal varchar(30),penerimaan varchar(30),persediaan varchar(30),pemakaian varchar(30),sisa_Stok varchar(30),stok_perbulan varchar(30),permintaan varchar(30),pemberian varchar(30),No_batch varchar(30),ED varchar(30)) ;
